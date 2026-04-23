@@ -87,9 +87,3 @@ If this RPG framework helped you build something awesome, please leave a ⭐️!
 
 ---
 
-### What makes this "Epic":
-1.  **Visual Hierarchy:** The use of emojis and horizontal rules makes it scannable.
-2.  **RPG Focus:** It explicitly mentions that the "system is already there," which is a huge selling point for other developers who don't want to code a whole inventory system from scratch.
-3.  **Strict Licensing:** The "Mandatory Credit" block is bolded and set in a blockquote. This makes it legally and socially clear that people can't just steal your work and hide it.
-
-**Ready to update your repo?** Just remember to swap out my placeholder text with any specific command
